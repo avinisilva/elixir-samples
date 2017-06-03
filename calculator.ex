@@ -1,5 +1,8 @@
 # function definition
 defmodule Calculator do
+    @moduledoc """
+        Documentation module 
+    """
     def mult(a, b) do
         a * b
     end
